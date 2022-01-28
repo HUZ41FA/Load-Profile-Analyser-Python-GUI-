@@ -2,7 +2,7 @@
 A python desktop application to analyze load profiles of different countries 
 
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
 
 ### Note:
