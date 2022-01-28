@@ -43,8 +43,6 @@ Load_Profile_Analyser(tab8, 'Singapore', 'singapore.csv')
 Load_Profile_Analyser(tab9, 'France', 'france.csv')
 Load_Profile_Analyser(tab10, 'India', 'india.csv')
 
-
-
 tabControl.pack(expand = 1, fill ="both")
 
 

@@ -1,5 +1,3 @@
-from cgitb import text
-from distutils.command.config import config
 from tkinter import *
 import pandas as pd
 import numpy as np
